@@ -2,6 +2,7 @@
 <p align="center">
 <img src="figures/overview.png" width="600">
 </p>
+
 ## Abstract
 
 Transfer learning is important for foundation models to adapt to downstream tasks.
@@ -42,6 +43,7 @@ In this repository, you will find all the necessary components to reproduce the 
 <p align="center">
 <img src="figures/paradigm.png" width="600">
 </p>
+
 - On 1-billion scale language models, Offsite-tuning (OT Plug-in) improves zero-shot (ZS) performance across all tasks, with only slight decreases compared to full fine-tuning (FT). Also, a consistent performance gap is observed between the emulator fine-tuning and plug-in, indicating offsite-tuning effectively preserves the privacy of the original proprietary model (users can not use the emulator to achieve the same performance).
 ![lm_results](figures/lm_results.png)
 
@@ -53,6 +55,7 @@ In this repository, you will find all the necessary components to reproduce the 
 <p align="center">
 <img src="figures/efficiency.png" width="600">
 </p>
+
 ## Citation
 
 If you find Offsite-Tuning useful or relevant to your research, please kindly cite our paper:

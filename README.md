@@ -53,7 +53,7 @@ In this repository, you will find all the necessary components to reproduce the 
 
 - Offsite-Tuning significantly increase the fine-tuning throughput and reduce the memory footprint compared to the existing fine-tuning methods.
 <p align="center">
-<img src="figures/efficiency.png" width="600">
+<img src="figures/efficiency.png" width="500">
 </p>
 
 ## Citation

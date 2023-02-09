@@ -1,6 +1,6 @@
 # Offsite-Tuning: Transfer Learning without Full Model [[paper]()]
 <p align="center">
-<center><img src="figures/overview.png" width="600"></center>
+<img src="figures/overview.png" width="600">
 </p>
 ## Abstract
 
@@ -40,7 +40,7 @@ In this repository, you will find all the necessary components to reproduce the 
 
 - Comparing existing fine-tuning approaches (top and middle) and  Offsite-Tuning (bottom). (a) Traditionally, users send labeled data to model owners for fine-tuning, raising privacy concerns and incurring high computational costs. (b) Model owner sending the full model to the data owner is not practical, which threatens the ownership of the proprietary model, and it's not affordable for users to fine-tune the huge foundation model due to resource constraints. (c) Offsite-tuning offers a privacy-preserving and efficient alternative to traditional fine-tuning methods that require access to full model weights.
 <p align="center">
-<center><img src="figures/paradigm.png" width="600"></center>
+<img src="figures/paradigm.png" width="600">
 </p>
 - On 1-billion scale language models, Offsite-tuning (OT Plug-in) improves zero-shot (ZS) performance across all tasks, with only slight decreases compared to full fine-tuning (FT). Also, a consistent performance gap is observed between the emulator fine-tuning and plug-in, indicating offsite-tuning effectively preserves the privacy of the original proprietary model (users can not use the emulator to achieve the same performance).
 ![lm_results](figures/lm_results.png)
@@ -51,7 +51,7 @@ In this repository, you will find all the necessary components to reproduce the 
 
 - Offsite-Tuning significantly increase the fine-tuning throughput and reduce the memory footprint compared to the existing fine-tuning methods.
 <p align="center">
-<center><img src="figures/efficiency.png" width="600"></center>
+<img src="figures/efficiency.png" width="600">
 </p>
 ## Citation
 

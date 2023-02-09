@@ -47,7 +47,7 @@ In this repository, you will find all the necessary components to reproduce the 
 - On 1-billion scale language models, Offsite-tuning (OT Plug-in) improves zero-shot (ZS) performance across all tasks, with only slight decreases compared to full fine-tuning (FT). Also, a consistent performance gap is observed between the emulator fine-tuning and plug-in, indicating offsite-tuning effectively preserves the privacy of the original proprietary model (users can not use the emulator to achieve the same performance).
 ![lm_results](figures/lm_results.png)
 
-- Offsite-tuning also works on language models over 6-billion parameters.
+- Offsite-tuning also works on language models over 6 billion parameters.
 ![llm_results](figures/llm_results.png)
 
 

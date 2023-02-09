@@ -3,8 +3,6 @@ merges.txt
 special_tokens_map.json
 vocab.json
 
-*.pt
-*.bin
 wandb/
 
 # Byte-compiled / optimized / DLL files

@@ -1,4 +1,4 @@
-# Offsite-Tuning: Transfer Learning without Full Model [[paper]()]
+# Offsite-Tuning: Transfer Learning without Full Model [[paper](https://arxiv.org/abs/2302.04870)]
 <p align="center">
 <img src="figures/overview.png" width="600">
 </p>

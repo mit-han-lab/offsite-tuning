@@ -68,7 +68,6 @@ from offsite_tuning.utils import (
     add_epilogue,
     add_prologue,
     uniform_choose_layers,
-    choose_layers_by_changes,
     magnitude_prune,
     quantize,
     parse_args,

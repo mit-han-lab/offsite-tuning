@@ -34,7 +34,7 @@ In this repository, you will find all the necessary components to reproduce the 
 1. Core Code: The core code for Offsite-Tuning can be found in the `offsite_tuning` folder.
 2. Scripts: All the scripts used to produce the paper results can be found in the `scripts` folder.
 3. Emulators: The emulators we distilled can be found in the `emulators` folder. We uploaded the emulators we used in our paper to [Huggingface](https://huggingface.co/mit-han-lab/offsite-tuning).
-4. Pretrained Checkpoint: The pre-trained checkpoint used in this research can be found in the `models` folder. We uploaded the emulators we used in our paper to [Huggingface](https://huggingface.co/mit-han-lab/offsite-tuning).
+4. Pretrained Checkpoint: The pre-trained checkpoint used in this research can be found in the `models` folder. We uploaded the models we used in our paper to [Huggingface](https://huggingface.co/mit-han-lab/offsite-tuning).
 5. Vision Downstream Datasets: The scripts to set up the vision downstream datasets used in the research can be found in the `datasets` folder.
 
 ## Results
